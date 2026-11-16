@@ -11,9 +11,9 @@ Each folder follows one video step by step: requirements, the exact commands, wh
 | Chrome DevTools MCP | A real Chrome browser and DevTools for coding agents | [chromedevtoolsmcp/](chromedevtoolsmcp/) | Coming soon | 1.13.0 |
 | EdgeEver | Self-hosted notes and knowledge base | [edgeever/](edgeever/) | Coming soon | v2.28.0 |
 | goose | Open source AI agent for the terminal (with a local model) | [goose/](goose/) | Coming soon | 1.59.0 |
-| Immich | Self-hosted photo and video library | [immich/](immich/) | Coming soon | v3 release line |
+| Immich | Self-hosted photo and video library | [immich/](immich/) | Coming soon | v3.4.1 |
 | kage | Saves websites as static, JavaScript-free copies | [kage/](kage/) | Coming soon | 0.3.12 |
-| LobeHub | Self-hosted chat and agent workspace for AI models | [lobehub/](lobehub/) | [Watch](https://youtu.be/XsjdkBC9h3A) | latest image (2026-11-16) |
+| LobeHub | Self-hosted chat and agent workspace for AI models | [lobehub/](lobehub/) | [Watch](https://youtu.be/XsjdkBC9h3A) | 2.3.3 |
 | n8n | Workflow automation with a visual editor | [n8n/](n8n/) | Coming soon | 2.47.7 |
 | OpenSandbox | Isolated, throwaway sandboxes for AI agents | [opensandbox/](opensandbox/) | Coming soon | 1.2.1 |
 | Paperless-ngx | Self-hosted document management with OCR | [paperless-ngx/](paperless-ngx/) | Coming soon | 3.4.2 |

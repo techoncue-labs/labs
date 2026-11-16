@@ -3,7 +3,7 @@
 LobeHub (formerly LobeChat) is a self-hostable chat and agent workspace for AI models, used from your browser.
 In this guide you self-host it with the official Docker Compose setup script, connect free local models through Ollama, then try chat, switching models, agents and topics.
 
-> Tested with LobeHub (image `lobehub/lobehub:latest`, Agent Gateway 0.5.0) on 2026-11-16.
+> Tested with LobeHub 2.3.3 (Docker image `lobehub/lobehub:latest` on 2026-11-16, Agent Gateway 0.5.0). To get exactly that version, use the image tag `lobehub/lobehub:2.3.3` instead of `latest`.
 > Watch the video: https://youtu.be/XsjdkBC9h3A
 
 ## Requirements

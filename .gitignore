@@ -1,0 +1,27 @@
+# Local secrets and environment files
+.env
+*.env
+!.env.example
+
+# Data created while following the guides
+/*/data/
+*-data/
+!sample-data/
+/*/library/
+/*/postgres/
+/*/uploads/
+sample-data/output/
+*.db
+*.sqlite
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/

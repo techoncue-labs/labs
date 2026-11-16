@@ -13,7 +13,7 @@ Each folder follows one video step by step: requirements, the exact commands, wh
 | goose | Open source AI agent for the terminal (with a local model) | [goose/](goose/) | Coming soon | 1.59.0 |
 | Immich | Self-hosted photo and video library | [immich/](immich/) | Coming soon | v3.4.1 |
 | Jellyfin | Self-hosted media server for your own movies and shows | [jellyfin/](jellyfin/) | Coming soon | 12.4.0 |
-| kage | Saves websites as static, JavaScript-free copies | [kage/](kage/) | Coming soon | 0.3.12 |
+| kage | Saves websites as static, JavaScript-free copies | [kage/](kage/) | [Watch](https://youtu.be/YPXyf7kizn8) | 0.3.12 |
 | LobeHub | Self-hosted chat and agent workspace for AI models | [lobehub/](lobehub/) | [Watch](https://youtu.be/XsjdkBC9h3A) | 2.3.3 |
 | n8n | Workflow automation with a visual editor | [n8n/](n8n/) | Coming soon | 2.47.7 |
 | OpenSandbox | Isolated, throwaway sandboxes for AI agents | [opensandbox/](opensandbox/) | Coming soon | 1.2.1 |

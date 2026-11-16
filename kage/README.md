@@ -4,7 +4,7 @@ kage renders each page of a website in headless Chrome, strips all JavaScript an
 In this guide you use the official Docker image to copy two small public sites, browse the copies, resume and scope a crawl, and pack a mirror into a single file.
 
 > Tested with kage 0.3.12 on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/YPXyf7kizn8
 
 ## Requirements
 - Docker (the official image already bundles Chromium)

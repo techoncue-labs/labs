@@ -4,7 +4,7 @@ Sure is a free, self-hosted personal finance app (a community fork of Maybe Fina
 In this guide you install it with the official Docker Compose file, create a local account, add two accounts, import a CSV of transactions, set up categories and a monthly budget, and look at your net worth.
 
 > Tested with Sure 0.7.6 (image tag `stable`, which pointed to `0.7.6-hotfix.1`) on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/F4c4jLpYKUE
 
 ## Requirements
 - A computer or small server with Docker and Docker Compose v2 installed and running.

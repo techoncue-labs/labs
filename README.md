@@ -18,7 +18,7 @@ Each folder follows one video step by step: requirements, the exact commands, wh
 | n8n | Workflow automation with a visual editor | [n8n/](n8n/) | Coming soon | 2.47.7 |
 | OpenSandbox | Isolated, throwaway sandboxes for AI agents | [opensandbox/](opensandbox/) | Coming soon | 1.2.1 |
 | Paperless-ngx | Self-hosted document management with OCR | [paperless-ngx/](paperless-ngx/) | Coming soon | 3.4.2 |
-| Sure | Self-hosted personal finance app | [surefinance/](surefinance/) | Coming soon | 0.7.6 |
+| Sure | Self-hosted personal finance app | [surefinance/](surefinance/) | [Watch](https://youtu.be/F4c4jLpYKUE) | 0.7.6 |
 | tau | Small coding agent for the terminal (with a local model) | [tau/](tau/) | Coming soon | 0.4.11 |
 
 All guides were last tested on 2026-11-16. The exact date and versions are at the top of each guide.

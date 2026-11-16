@@ -1,0 +1,19 @@
+# Jellyfin compose file, as typed in the video.
+# Source: https://jellyfin.org/docs/general/installation/container/ (Docker Compose tab), trimmed to the basics:
+# the optional user, 7359/udp autodiscovery, fonts, environment and extra_hosts lines are left out,
+# relative folders are used, and the media folder is mounted read only.
+# Image tag pinned to 12.4 (the tested 12.4.0 release; Docker Hub has no "12.4.0" tag). Use :latest or a newer tag to upgrade.
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:12.4
+    container_name: jellyfin
+    ports:
+      - 8096:8096/tcp
+    volumes:
+      - ./config:/config
+      - ./cache:/cache
+      - type: bind
+        source: ./media
+        target: /media
+        read_only: true
+    restart: unless-stopped

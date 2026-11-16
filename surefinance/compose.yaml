@@ -48,7 +48,7 @@
 
 x-db-env: &db_env
   POSTGRES_USER: ${POSTGRES_USER:-sure_user}
-  POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-sure_password}
+  POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env (openssl rand -hex 32)}
   POSTGRES_DB: ${POSTGRES_DB:-sure_production}
 
 x-rails-env: &rails_env

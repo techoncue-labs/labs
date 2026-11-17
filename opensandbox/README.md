@@ -4,7 +4,7 @@ OpenSandbox gives AI agents isolated, throwaway environments (sandboxes) where t
 In this guide you start the OpenSandbox server on your own machine, use the Python SDK to create a sandbox, run commands and code in it, write and read files, then use the `osb` command line tool and clean up.
 
 > Tested with OpenSandbox 1.2.1 (opensandbox-server, opensandbox SDK and opensandbox-cli from PyPI) on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/LoJh4OdPGn4
 
 ## Requirements
 - Docker installed and running (required for local use). Docker CE is recommended over the snap package.

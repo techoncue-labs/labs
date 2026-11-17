@@ -8,18 +8,18 @@ Each folder follows one video step by step: requirements, the exact commands, wh
 | Tool | What it is | Guide | Video | Tested version |
 |------|------------|-------|-------|----------------|
 | Beszel | Lightweight server and Docker monitoring | [beszel/](beszel/) | [Watch](https://youtu.be/OFU6p_-CXCc) | 0.21.2 |
-| Chrome DevTools MCP | A real Chrome browser and DevTools for coding agents | [chromedevtoolsmcp/](chromedevtoolsmcp/) | Coming soon | 1.13.0 |
-| EdgeEver | Self-hosted notes and knowledge base | [edgeever/](edgeever/) | Coming soon | v2.28.0 |
-| goose | Open source AI agent for the terminal (with a local model) | [goose/](goose/) | Coming soon | 1.59.0 |
+| Chrome DevTools MCP | A real Chrome browser and DevTools for coding agents | [chromedevtoolsmcp/](chromedevtoolsmcp/) | [Watch](https://youtu.be/hOyVidyCSF0) | 1.13.0 |
+| EdgeEver | Self-hosted notes and knowledge base | [edgeever/](edgeever/) | [Watch](https://youtu.be/ZFQvQUDJLJI) | v2.28.0 |
+| goose | Open source AI agent for the terminal (with a local model) | [goose/](goose/) | [Watch](https://youtu.be/w1ZO6LMTu3E) | 1.59.0 |
 | Immich | Self-hosted photo and video library | [immich/](immich/) | Coming soon | v3.4.1 |
 | Jellyfin | Self-hosted media server for your own movies and shows | [jellyfin/](jellyfin/) | Coming soon | 12.4.0 |
 | kage | Saves websites as static, JavaScript-free copies | [kage/](kage/) | [Watch](https://youtu.be/YPXyf7kizn8) | 0.3.12 |
 | LobeHub | Self-hosted chat and agent workspace for AI models | [lobehub/](lobehub/) | [Watch](https://youtu.be/XsjdkBC9h3A) | 2.3.3 |
 | n8n | Workflow automation with a visual editor | [n8n/](n8n/) | Coming soon | 2.47.7 |
-| OpenSandbox | Isolated, throwaway sandboxes for AI agents | [opensandbox/](opensandbox/) | Coming soon | 1.2.1 |
+| OpenSandbox | Isolated, throwaway sandboxes for AI agents | [opensandbox/](opensandbox/) | [Watch](https://youtu.be/LoJh4OdPGn4) | 1.2.1 |
 | Paperless-ngx | Self-hosted document management with OCR | [paperless-ngx/](paperless-ngx/) | Coming soon | 3.4.2 |
 | Sure | Self-hosted personal finance app | [surefinance/](surefinance/) | [Watch](https://youtu.be/F4c4jLpYKUE) | 0.7.6 |
-| tau | Small coding agent for the terminal (with a local model) | [tau/](tau/) | Coming soon | 0.4.11 |
+| tau | Small coding agent for the terminal (with a local model) | [tau/](tau/) | [Watch](https://youtu.be/Dbpx1kRt6CY) | 0.4.11 |
 
 All guides were last tested on 2026-11-16. The exact date and versions are at the top of each guide.
 

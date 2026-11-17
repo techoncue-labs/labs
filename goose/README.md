@@ -4,7 +4,7 @@ goose is a free, open source, general purpose AI agent that runs commands, edits
 In this guide you install the goose command line tool, connect it to a free local model through Ollama, let it build and test a tiny project, use permission modes, run a recipe and add an extension.
 
 > Tested with goose 1.59.0 and the qwen3:14b model in Ollama, on Linux, on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/w1ZO6LMTu3E
 
 ## Requirements
 - macOS, Linux or Windows. The commands below are for Linux and macOS; see the install docs for Windows.

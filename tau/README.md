@@ -4,7 +4,7 @@ tau is a small, readable coding agent from Hugging Face that lives in your termi
 In this guide you install it with uv, connect it to a free local model in Ollama, let it build, edit and test a tiny project, and tour its main commands and saved sessions.
 
 > Tested with tau 0.4.11 and the qwen3:14b model in Ollama, on Linux, on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/Dbpx1kRt6CY
 
 ## Requirements
 - macOS, Linux or Windows, and Python 3.12 or newer (uv can fetch Python for you).

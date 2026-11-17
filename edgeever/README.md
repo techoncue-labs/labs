@@ -4,7 +4,7 @@ EdgeEver is an open source, self-hosted notes and knowledge base app with the cl
 In this guide you install it with Docker Compose, sign in, and use notebooks, notes, tags, search, a mind map and the ZIP export.
 
 > Tested with EdgeEver v2.28.0 on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/ZFQvQUDJLJI
 
 ## Requirements
 - A Linux machine, 64-bit Intel/AMD or ARM, with kernel 5.6 or newer (a home server, NAS or small VM is fine).

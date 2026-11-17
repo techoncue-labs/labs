@@ -4,7 +4,7 @@ Chrome DevTools MCP (Chrome DevTools for agents) gives a coding agent a real Chr
 In this guide you install it with npm, find two bugs and one slow image on a small made-up test page using its `chrome-devtools` command line tool, then connect it to your coding agent.
 
 > Tested with chrome-devtools-mcp 1.13.0 (Node.js 22, Google Chrome 157) on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/hOyVidyCSF0
 
 ## Requirements
 - Node.js LTS, 20.19 or newer (it brings npm).

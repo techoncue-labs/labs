@@ -4,7 +4,7 @@ Immich is a self-hosted home for your photos and videos: a timeline, albums, a m
 In this guide you install it with Docker Compose, upload photos, search them by describing what is in them, and share an album with a link.
 
 > Tested with Immich v3.4.1 on 2026-11-16. The official `example.env` sets `IMMICH_VERSION=v3` (newest v3 release). To get exactly what the video shows, set `IMMICH_VERSION=v3.4.1` in `.env`.
-> Video: coming soon
+> Video: https://youtu.be/KnJzeatdkIo
 
 ## Requirements
 - A 64-bit Linux machine is recommended. Mac and Windows work through Docker Desktop, but the official docs discourage them.

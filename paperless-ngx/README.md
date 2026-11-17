@@ -4,7 +4,7 @@ Paperless-ngx is a self-hosted document management system: it reads your scans a
 In this guide you install it with Docker Compose, add documents by upload and through the consume folder, search the text inside them, let matching rules sort them, and optionally ask them questions with a local AI model.
 
 > Tested with Paperless-ngx 3.4.2 on 2026-11-16.
-> Video: coming soon
+> Video: https://youtu.be/tLrnXSbYLm4
 
 ## Requirements
 - A Linux machine (small server, home lab box or virtual machine) with Docker and Docker Compose.
